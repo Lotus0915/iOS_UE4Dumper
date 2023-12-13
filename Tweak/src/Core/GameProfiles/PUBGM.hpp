@@ -18,6 +18,7 @@ public:
             "com.pubg.imobile",
             "com.pubg.krmobile",
             "com.vng.pubgmobile"
+            "com.tencent.tmgp.pubgmhd"
         };
     }
 
